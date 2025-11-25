@@ -79,7 +79,7 @@ a {
     h1::before {
       content: "";
       position: absolute;
-      background-color: #0841fd;
+      background-color: #A9242B;
       left: 0;
       top: 10%;
       width: 2px;
